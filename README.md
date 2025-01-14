@@ -24,9 +24,9 @@ Nộp bài tại: [Nộp bài tại đây](https://hethongnopbai.dak.edu.vn/nopb
 
 ---
 
-Thông tin:
-- Hoàng Quốc Tuấn website: [hoangquoctuan.net](http://hoangquoctuan.net)
-- Quản lý: Công ty thiết kế web tại Đắk Lắk [daksystem.net](http://daksystem.net)
-- Thiết kế website tại Đắk Lắk: [dakdesign.net](http://dakdesign.net)
+**Thông tin:**
+- [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
+- [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
+- [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
 
 ![Background Image](https://thietkewebdaklak.net/wp-content/uploads/2018/06/bg-home-edit-1.jpg)
